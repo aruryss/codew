@@ -1,17 +1,17 @@
 {
   "locale": "ru",
   "share": {
-    "title": "I'm in CodeW!",
-    "text": "get there too"
+    "title": "Я учавствую в CodeW 2023!",
+    "text": "Присоединяйся!"
   },
   "success": {
-    "headline": "ийгуфвыиши",
-    "description": "Your application was received. We will contact you for the next steps by email. Look out!",
+    "headline": "Регистрация прошла успешно!",
+    "description": "Ваша заявка была принята. Мы свяжемся с вами насчет дальнейших действий по вашей почте. Следите за обновлениями!",
     "share": "Share URL",
     "copy": "Copy URL",
     "copied": "Copied!",
     "hosted": "Hosted by ACM-W",
-    "date": "10:30am, October 25, 2002"
+    "date": "10:00am, 4-ое Марта, 2023"
   },
   "footer": {
     "love": "Сделано с ❤️ от"
@@ -27,49 +27,49 @@
     "registration": "Регистрация"
   },
   "form": {
-    "submit": "Submit",
-    "loading": "Loading",
+    "submit": "Зарегистрироваться",
+    "loading": "Загрузка",
 
-    "firstName": "First name",
-    "lastName": "Last name",
-    "dateOfBirth": "Date of Birth",
-    "citizenship": "Citizenship",
-    "cityOfResidence": "City of Residence",
-    "stateId": "State Id",
-    "schoolName": "School name",
-    "pursuingDegree": "Pursuing Degree",
-    "enrollmentVerification": "Enrollment Verification",
-    "graduationYear": "Graduation Year",
-    "email": "Email address",
-    "contestLanguage": "Contest Language",
-    "selectLanguage": "Select Language",
-    "programmingLanguages": "Programming Languages",
-    "selectLanguages": "Select Languages",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "dateOfBirth": "Дата рождения",
+    "citizenship": "Гражданство",
+    "cityOfResidence": "Город проживания",
+    "stateId": "Удостоверение личности",
+    "schoolName": "Учебное заведение",
+    "pursuingDegree": "Факультет обучения",
+    "enrollmentVerification": "Справка с места учебы",
+    "graduationYear": "Год выпуска",
+    "email": "Email адрес",
+    "contestLanguage": "Язык контеста",
+    "selectLanguage": "Выберите язык",
+    "programmingLanguages": "Язык программирования",
+    "selectLanguages": "Выберите язык",
     "cv": "CV",
-    "motivationLetter": "What motivates you to participate in codeW?",
+    "motivationLetter": "Что мотивирует вас учавствовать в codeW?",
 
-    "emailError": "Please verify your email.",
-    "errorDefault": "This field is required",
+    "emailError": "Пожалуйста подтвердите вашу электронную почту",
+    "errorDefault": "Это поле обязательно",
 
     "multiSelect": {
-      "select": "Select multiple"
+      "select": "Выберите несколько"
     },
     "textArea": {
-      "minimum": "minimum 100 words"
+      "minimum": "минимум 100 слов"
     }
   },
   "hero": {
-    "register": "Register",
+    "register": "Регистрация",
     "welcome": {
-      "1": "Welcome to",
+      "1": "Добро пожаловать на ",
       "2": "codeW 2023"
     },
-    "dates": "Dates"
+    "dates": "4-ое Марта 2023"
   },
   "timeline": {
     "headline": "Таймлайн codeW 2023",
     "items": [
-      { "text1": "9-23 февраля", "text2": "Регистрация" },
+      { "text1": "12-23 февраля", "text2": "Регистрация" },
       { "text1": "23-28 февраля", "text2": "Квалификационный тест" },
       {
         "text1": "2-3 марта",
@@ -78,36 +78,40 @@
     ]
   },
   "schedule": {
-    "headline": "Расписснснфивфыв",
+    "headline": "Расписание",
     "items": [
       {
-        "time": "10:00-11:00",
+        "time": "10:00-10:30",
         "name": "Открытие"
       },
       {
-        "time": "10:00-11:00",
-        "name": "Мастер-класс"
-      },
-      {
-        "time": "13:00-14:00",
-        "name": "Ланч-брейк"
-      },
-      {
-        "time": "14:00-17:00",
+        "time": "11:00-14:00",
         "name": "Основное соревнование"
       },
       {
-        "time": "17:00-18:00",
+        "time": "14:00-15:00",
+        "name": "Ланч-брейк"
+      },
+      {
+        "time": "15:00-16:00",
+        "name": "Мастер-класс"
+      },
+      {
+        "time": "16:00-17:00",
         "name": "Нетворкинг"
       },
       {
-        "time": "18:00-18:30",
-        "name": "Закрытие"
+        "time": "17:00-17:30",
+        "name": "Фотошут"
+      },
+      {
+        "time": "17:30-18:00",
+        "name": "Церемония закрытия"
       }
     ]
   },
   "sponsors": {
-    "headline": "Our Sponsors",
+    "headline": "Наши спонсора",
     "umag": {
       "links": [
         {
@@ -165,7 +169,7 @@
     "description": "codeW 2023 - четвертое ежегодное республиканское соревнование по спортивному программированию для студенток ВУЗов и учениц старших классов. В течение соревнования участницы будут решать набор задач на алгоритмы и структуры данных на выбранном ими языке программирования."
   },
   "faq": {
-    "headline": "FAQ",
+    "headline": "Часто задаваемые вопросы",
     "questions": [
       {
         "q": "Кто может участвовать в соревновании?",
