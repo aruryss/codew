@@ -11,7 +11,7 @@
     "copy": "Copy URL",
     "copied": "Copied!",
     "hosted": "Hosted by ACM-W",
-    "date": "10:30am, October 25, 2002"
+    "date": "10:00am, March 4th, 2023"
   },
   "footer": {
     "love": "Made with ❤️ by"
@@ -64,12 +64,12 @@
       "1": "Welcome to",
       "2": "CodeW 2023"
     },
-    "dates": "Dates"
+    "dates": "March 4th"
   },
   "timeline": {
     "headline": "CodeW 2023 Timeline",
     "items": [
-      { "text1": "February 9 - 23rd", "text2": "Registration", "image": "/" },
+      { "text1": "February 12 - 23rd", "text2": "Registration", "image": "/" },
       { "text1": "February 23 - 28th", "text2": "Qualification Round" },
       {
         "text1": "March 2-3rd",
@@ -81,27 +81,27 @@
     "headline": "codeW 2023 Schedule",
     "items": [
       {
-        "time": "10:00-11:00",
+        "time": "10:00-10:30",
         "name": "Opening"
       },
       {
-        "time": "10:00-11:00",
-        "name": "Workshop"
-      },
-      {
-        "time": "13:00-14:00",
-        "name": "Lunch Break"
-      },
-      {
-        "time": "14:00-17:00",
+        "time": "11:00-14:00",
         "name": "Main Contest"
       },
       {
-        "time": "17:00-18:00",
+        "time": "14:00-15:00",
+        "name": "Lunch Break"
+      },
+      {
+        "time": "15:00-16:00",
+        "name": "Workshop"
+      },
+      {
+        "time": "16:00-17:00",
         "name": "Networking"
       },
       {
-        "time": "18:00-18:30",
+        "time": "17:30-18:00",
         "name": "Closing Ceremony"
       }
     ]
