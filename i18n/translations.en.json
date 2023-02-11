@@ -93,15 +93,19 @@
         "name": "Lunch Break"
       },
       {
-        "time": "14:00-17:00",
+        "time": "14:00-16:00",
         "name": "Main Contest"
       },
       {
-        "time": "17:00-18:00",
+        "time": "16:00-17:00",
         "name": "Networking"
       },
       {
-        "time": "18:00-18:30",
+        "time": "17:00-17:30",
+        "name": "Photoshoot"
+      },
+      {
+        "time": "17:30-18:00",
         "name": "Closing Ceremony"
       }
     ]
